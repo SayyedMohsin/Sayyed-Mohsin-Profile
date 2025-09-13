@@ -1,6 +1,6 @@
-![logo](https://github.com/SayyedMohsin/My-Profile-ReadMe-Generator/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm A passionate Data Science/AI ML from India</h1>
-
+[My Profile.html](https://github.com/user-attachments/files/22314446/My.Profile.html)![logo](https://github.com/SayyedMohsin/My-Profile-ReadMe-Generator/blob/main/Github%20Banner.png)
+<h1 align="center">Hi 👋, I'm Sayyed Mohsin Ali</h1>
+<h3 align="center">A passionate Data Science/AI ML from India</h3>
 
 <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/87b068edecd4346da3df5419755094a30cfd56041d139237d3a9731cd815c038/68747470733a2f2f70726f65666669636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f64616f6e6c696e652e676966" style="display: block; opacity: 1;">
 
@@ -24,7 +24,6 @@
 - 💬 Ask me about ****Python, SQL, Data Science AI/ ML Projects, AI Assistants (BharatVaani, Enterprise RAG Chatbot)**.**
 
 - 📫 How to reach me **smohsin32@yahoo.in**
-
 - ⚡ Fun fact ***I built Data Science/ AI ML Project – and now I use it every day!* 🎉**
 
 <h3 align="left">Connect with me:</h3>
